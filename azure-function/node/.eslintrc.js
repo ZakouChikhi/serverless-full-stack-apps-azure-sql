@@ -10,6 +10,6 @@ module.exports = {
   },
   rules: {
     radix: 'off',
-    'func-names':'off',
+    'func-names': 'off',
   },
 };
